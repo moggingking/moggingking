@@ -1,5 +1,5 @@
   
-<img src="https://i.pinimg.com/736x/a8/00/f2/a800f21e9cdc499e4140dad1f4c78509.jpg" width="500" height="500" border="10"/>
+<img src="https://i.pinimg.com/736x/a8/00/f2/a800f21e9cdc499e4140dad1f4c78509.jpg" width="400" height="400" border="10"/>
 </p>
 
 # 𝗺𝗼𝗿𝗲 𝗮𝗯𝗼𝘂𝘁 𝗺𝗲
